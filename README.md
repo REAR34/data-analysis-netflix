@@ -30,13 +30,21 @@ Como resultado general pude observar lo siguiente:
 - El drama y la comedia son los generos mas predominantes dentro del catalogo de Netflix.
 
 ## Visualización
-<Figure size 640x480 with 1 Axes><img width="580" height="500" alt="imagen" src="https://github.com/user-attachments/assets/dd0a67a5-eef5-4dd6-a18e-c4fa9cfd69d7" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd0a67a5-eef5-4dd6-a18e-c4fa9cfd69d7" width="580"/>
+</p>
 
-<Figure size 640x480 with 1 Axes><img width="580" height="601" alt="imagen" src="https://github.com/user-attachments/assets/ec3f1b44-afe6-48ea-beea-5779a5a33958" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ec3f1b44-afe6-48ea-beea-5779a5a33958" width="580"/>
+</p>
 
-<Figure size 640x480 with 1 Axes><img width="580" height="552" alt="imagen" src="https://github.com/user-attachments/assets/ed0bd118-f0fc-4850-8ceb-bdb0dfb8eb8d" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ed0bd118-f0fc-4850-8ceb-bdb0dfb8eb8d" width="580"/>
+</p>
 
-<Figure size 640x480 with 1 Axes><img width="580" height="455" alt="imagen" src="https://github.com/user-attachments/assets/d29b5869-37b9-4258-a772-55b50ee8eb8d" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d29b5869-37b9-4258-a772-55b50ee8eb8d" width="580"/>
+</p>
 
 
 
